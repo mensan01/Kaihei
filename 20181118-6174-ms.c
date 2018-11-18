@@ -1,5 +1,5 @@
+//这条注释用于GitHub测试
 #include <stdio.h>
-
 void convert(int input, int *a, int *b);
 
 int main()
